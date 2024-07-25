@@ -1,0 +1,10 @@
+@import '../../../css/colors.scss';
+
+.homepageContainer{
+  position: fixed;
+  width: calc(100vw - 150px);
+  height: calc(100vh - 100px);
+  background-color: $accentColor2;
+  margin-top: 100px;
+  margin-left: 150px;
+}
